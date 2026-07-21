@@ -2,7 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Gustavo Campos Alves, tenho 18 anos e sou natural do Rio Grande do Sul. Estou concluindo o Ensino Médio. Atualmente, curso Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonado por tecnologia, jogos e desde criança mexo com isso.
+Tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, estou concluindo o Ensino Médio e cursando Análise e Desenvolvimento de Sistemas na PUCRS.
+
+Sou apaixonado por tecnologia e jogos, e desde criança tenho curiosidade por computadores e programação. Estou sempre buscando aprender novas tecnologias e desenvolver projetos que fortaleçam minhas habilidades como desenvolvedor.
+
+Aqui no GitHub compartilho meus estudos, projetos pessoais e aplicações desenvolvidas durante minha jornada na programação..
 
 
 
