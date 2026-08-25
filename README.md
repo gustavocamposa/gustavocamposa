@@ -16,6 +16,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
 
 <div align="left">
   <img 
+    align=left
     alt="HTML"
     title="HTML"
     width="30px"
@@ -24,6 +25,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
   />
 
   <img 
+    align=left
     alt="CSS"
     title="CSS"
     width="30px"
