@@ -34,6 +34,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
   />
 
   <img 
+    align=left
     alt="JavaScript"
     title="JavaScript"
     width="30px"
@@ -42,6 +43,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
   />
 
   <img 
+    align=left
     alt="TypeScript"
     title="TypeScript"
     width="30px"
@@ -50,6 +52,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
   />
 
   <img 
+    align=left
     alt="React"
     title="React"
     width="30px"
@@ -58,6 +61,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
   />
 
   <img 
+    align=left
     alt="Next.js"
     title="Next.js"
     width="30px"
@@ -66,6 +70,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
   />
 
   <img 
+    align=left
     alt="Node.js"
     title="Node.js"
     width="30px"
@@ -74,6 +79,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
   />
 
   <img 
+    align=left
     alt="Express"
     title="Express"
     width="30px"
@@ -81,7 +87,8 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
   />
 
-  <img 
+  <img
+    align=left
     alt="Git"
     title="Git"
     width="30px"
