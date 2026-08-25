@@ -88,7 +88,6 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
   />
 
   <img
-    align=left
     alt="Git"
     title="Git"
     width="30px"
