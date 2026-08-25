@@ -1,76 +1,143 @@
-# 👩🏻‍💻 Gustavo Campos
+# 👨🏻‍💻 Gustavo Campos
 
-**`Desenvolvedor FullStack`**
+**`Full Stack Developer`**
 
-Tenho 18 anos e sou natural do Rio Grande do Sul. Atualmente, estou concluindo o Ensino Médio e cursando Análise e Desenvolvimento de Sistemas na PUCRS.
+Hi! I'm Gustavo Campos, a 19-year-old developer from Rio Grande do Sul, Brazil.
 
-Sou apaixonado por tecnologia e jogos, e desde criança tenho curiosidade por computadores e programação. Estou sempre buscando aprender novas tecnologias e desenvolver projetos que fortaleçam minhas habilidades como desenvolvedor.
+I'm currently studying **Systems Analysis and Development at PUCRS**, while continuously improving my skills through personal projects, courses, and hands-on development.
 
-Aqui no GitHub compartilho meus estudos, projetos pessoais e aplicações desenvolvidas durante minha jornada na programação..
+I'm passionate about technology, software development, and problem-solving. I enjoy building applications from both the frontend and backend sides, and I'm always looking for opportunities to learn new technologies and improve as a developer.
 
-
+Here on GitHub, I share my projects, studies, experiments, and everything I build throughout my journey in software development.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Languages & Technologies
 
-<img 
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
+<div align="left">
+  <img 
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+  />
+
+  <img 
+    alt="CSS"
     title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+  />
+
+  <img 
+    alt="JavaScript"
     title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+  />
 
-<img 
-    align="left" 
+  <img 
+    alt="TypeScript"
+    title="TypeScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+  />
+
+  <img 
     alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
+    title="React"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+  />
+
+  <img 
+    alt="Next.js"
     title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+  />
 
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
+  <img 
+    alt="Node.js"
+    title="Node.js"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+  />
+
+  <img 
+    alt="Express"
+    title="Express"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+  />
+
+  <img 
+    alt="Git"
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+  />
+</div>
 
-<br/>
+---
+
+### 🚀 What I'm Currently Working On
+
+- Improving my **TypeScript** skills
+- Building full stack applications with **React, Node.js and Express**
+- Learning more about **REST APIs and backend architecture**
+- Improving my knowledge of **Git and software development practices**
+- Building personal projects to strengthen my portfolio
+
+---
+
+### 📚 Education
+
+**PUCRS — Pontifícia Universidade Católica do Rio Grande do Sul**
+
+`Systems Analysis and Development`
+
+---
+
+### 📊 GitHub Stats
+
+<div align="left">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=gustavocamposa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavocamposa&layout=compact&langs_count=8&theme=github_dark"
+  />
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:your-email@example.com">
+    <img 
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+</div>
