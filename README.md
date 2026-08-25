@@ -19,7 +19,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="HTML"
     title="HTML"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
   />
 
@@ -27,7 +27,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="CSS"
     title="CSS"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
   />
 
@@ -35,7 +35,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="JavaScript"
     title="JavaScript"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
   />
 
@@ -43,7 +43,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="TypeScript"
     title="TypeScript"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
   />
 
@@ -51,7 +51,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="React"
     title="React"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
 
@@ -59,7 +59,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="Next.js"
     title="Next.js"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
   />
 
@@ -67,7 +67,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="Node.js"
     title="Node.js"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
   />
 
@@ -75,7 +75,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="Express"
     title="Express"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
   />
 
@@ -83,7 +83,7 @@ Here on GitHub, I share my projects, studies, experiments, and everything I buil
     alt="Git"
     title="Git"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 100px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
   />
 </div>
